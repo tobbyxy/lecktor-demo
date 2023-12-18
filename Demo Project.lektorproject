@@ -5,4 +5,5 @@ name = Demo Project
 target = ghpages+https://tobbyxy/lecktor-demo
 
 [servers.ghpages]
+name = Github Pages
 target = ghpages://tobbyxy/lecktor-demo
