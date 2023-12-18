@@ -1,8 +1,8 @@
 [project]
 name = Demo Project
 
-[server.ghpages]
+[server.gh_https]
 target = ghpages+https://tobbyxy/lecktor-demo
 
-[servers.production]
+[servers.ghpages]
 target = ghpages://tobbyxy/lecktor-demo
