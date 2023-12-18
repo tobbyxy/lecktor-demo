@@ -3,3 +3,6 @@ name = Demo Project
 
 [server.ghpages]
 target = ghpages+https://tobbyxy/lecktor-demo
+
+[servers.production]
+target = ghpages://tobbyxy/lecktor-demo
