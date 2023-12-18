@@ -2,4 +2,4 @@
 name = Demo Project
 
 [server.ghpages]
-target= ghpages+https://tobbyxy/lecktor-demo
+target = ghpages+https://tobbyxy/lecktor-demo
